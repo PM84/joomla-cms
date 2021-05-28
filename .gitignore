@@ -1,3 +1,8 @@
+# +++ PMS-HACK (Peter Mayer)
+# No Installation-Directory for further installations
+/installation
+# --- PMS-HACK (Peter Mayer)
+
 # IDE & System Related Files #
 .buildpath
 .project
