@@ -1,0 +1,1 @@
+ALTER TABLE `#__pms_finance_stocks` ADD `lastsimulated` INT NOT NULL AFTER `lastupdate`;
