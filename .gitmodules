@@ -10,3 +10,9 @@
 [submodule "plugins/system/pemasoft_telegram_webhook"]
 	path = plugins/system/pemasoft_telegram_webhook
 	url = https://github.com/PM84/pemasoft_telegram_webhook_plugin_system.git
+[submodule "plugins/content/pemasoft_feedreader_ct_rss"]
+	path = plugins/content/pemasoft_feedreader_ct_rss
+	url = https://github.com/PM84/plg_pemasoft_feedreader_ct_rss.git
+[submodule "plugins/system/pemasoft_fontawesome"]
+	path = plugins/system/pemasoft_fontawesome
+	url = https://github.com/PM84/plg_system_pemasoft_fontawesome.git
