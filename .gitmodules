@@ -19,3 +19,6 @@
 [submodule "plugins/content/pemasoft_feedreader_ct_rss"]
 	path = plugins/content/pemasoft_feedreader_ct_rss
 	url = https://github.com/PM84/plg_pemasoft_feedreader_ct_rss.git
+[submodule "plugins/content/pemasoft_feedreader_ct_twitter"]
+	path = plugins/content/pemasoft_feedreader_ct_twitter
+	url = https://github.com/PM84/plg_pemasoft_feedreader_ct_twitter.git
